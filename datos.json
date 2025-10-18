@@ -2,7 +2,7 @@
     {
         "titulo": "App Fitness",
         "categoria": "Diseño de Interfaz",
-        "imagen": "app.png",
+        "imagen": "https://nourjalilie.github.io/Clase10/img/app.png",
         "alt": "Proyecto 1"
     },
 
@@ -62,3 +62,4 @@
         "alt": "Proyecto 9"
     }
 ]
+
